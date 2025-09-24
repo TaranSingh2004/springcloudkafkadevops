@@ -1,0 +1,9 @@
+target/
+*.log
+*.env
+*.properties
+*.yml
+.idea/
+*.iml
+.DS_Store
+notes.txt
